@@ -1,0 +1,19 @@
+order_id,date,product,category,quantity,unit_price,total_sales,customer,region,payment_method
+10001.0,2026-05-10 14:05:06.498,Keyboard,Electronics,7,274.05,1918.35,Tech Solutions,East,Wire Transfer
+10005.0,2026-05-19 14:05:06.498,Phone Stand,Electronics,8,153.82,1230.56,Global Industries,North,Credit Card
+10006.0,2026-05-19 14:05:06.498,Monitor,Peripherals,1,109.16,109.16,StartUp Inc,North,PayPal
+10007.0,2026-05-22 14:05:06.498,Monitor,Peripherals,7,19.45,136.15,Global Industries,East,Wire Transfer
+10008.0,2026-05-23 14:05:06.498,Webcam,Computing,5,138.07,690.3499999999999,Mega Store,Central,Check
+10011.0,2026-06-04 14:05:06.498,Monitor,Electronics,10,117.33,1173.3,Acme Corp,South,Wire Transfer
+10012.0,2026-06-05 14:05:06.498,USB Cable,Computing,3,264.46,793.3799999999999,StartUp Inc,North,Wire Transfer
+10013.0,2026-06-07 14:05:06.498,Mouse,Computing,2,469.42,938.84,Mega Store,North,PayPal
+10014.0,2026-06-07 14:05:06.498,Screen Protector,Accessories,9,119.58,1076.22,Mega Store,Central,Wire Transfer
+10015.0,2026-06-08 14:05:06.498,Desk Lamp,Peripherals,8,411.29,3290.32,Tech Solutions,South,Wire Transfer
+10017.0,2026-06-09 14:05:06.498,Webcam,Office,1,388.96,388.96,Acme Corp,West,Credit Card
+10018.0,2026-06-10 14:05:06.498,Headphones,Office,4,175.05,700.2,StartUp Inc,East,ACH
+10019.0,2026-06-15 14:05:06.498,Keyboard,Peripherals,8,40.64,325.12,Small Business Co,South,Check
+10020.0,2026-06-16 14:05:06.498,Phone Stand,Office,3,407.64,1222.92,Tech Solutions,Central,Credit Card
+10021.0,2026-06-19 14:05:06.498,Monitor,Office,4,295.32,1181.28,Small Business Co,Central,Check
+10022.0,2026-06-20 14:05:06.498,Webcam,Computing,8,332.76,2662.08,Small Business Co,North,Wire Transfer
+10023.0,2026-06-27 14:05:06.498,Laptop,Office,4,39.39,157.56,Digital Agency,East,ACH
+10024.0,2026-06-27 14:05:06.498,Monitor,Electronics,3,400.77,1202.31,Small Business Co,West,ACH
