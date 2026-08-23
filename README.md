@@ -16,7 +16,7 @@ An interactive **AI-powered data cleaning and data quality platform** built with
 
 ### Dashboard
 
-![Data Cleaning Dashboard](screenshots/dashboard.png)
+![Data Cleaning Dashboard]("C:\Users\ANIL\Downloads\ai-automated-data-cleaning\screenshots\upload-dataset.png")
 
 ### Dataset Preview
 
