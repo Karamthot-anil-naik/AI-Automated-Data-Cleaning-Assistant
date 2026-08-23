@@ -2,7 +2,7 @@
 
 > **An intelligent data preprocessing platform that automatically detects, analyzes, and cleans messy datasets using AI and machine learning techniques.**
 
-[![Streamlit](https://ai-automated-data-cleaning-platform-c5n4esjdyjafkejjmjrpjt.streamlit.app/)
+[![Streamlit] (https://ai-automated-data-cleaning-platform-c5n4esjdyjafkejjmjrpjt.streamlit.app/)
 ---
 
 ## 📌 Overview
