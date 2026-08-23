@@ -16,4 +16,3 @@ python-Levenshtein
 fastapi
 python-multipart
 python-dotenv
-
