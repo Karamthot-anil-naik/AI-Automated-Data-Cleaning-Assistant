@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Automated Data Cleaning Platform
+# 🤖 AI Automated Data Cleaning Assistant
 
 > **An intelligent data preprocessing platform that automatically detects, analyzes, and cleans messy datasets using AI and machine learning techniques.**
 
